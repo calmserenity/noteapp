@@ -16,6 +16,8 @@
 ## New Note List 
 ![image](https://github.com/calmserenity/noteapp/assets/142383855/37d2acac-4e9c-45ca-bc68-c3085f689479)
 
+## Additional Information 
+![image](https://github.com/calmserenity/noteapp/assets/142383855/681bf6ca-b189-40bf-bdcc-243263b18bf1)
 
 
 
