@@ -1,4 +1,8 @@
 # noteapp
+## Note
+* Code will not run straight from downloading due to different build and version in Android Studio
+* Instead, consider inserting the code into your own file
+
 
 ## Splash Screen
 ![image](https://github.com/calmserenity/noteapp/assets/142383855/3d02674a-a0dd-407f-859d-9d42c0a4a609)
